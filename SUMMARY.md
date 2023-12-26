@@ -10,3 +10,4 @@
 * [DittoBOT Command List](dittobot-command-list.md)
 * [What are Radiant pokemon?](what-are-radiant-pokemon.md)
 * [Old Tutorial (will be removed soon)](old-tutorial-will-be-removed-soon.md)
+* [Fishing](fishing.md)
